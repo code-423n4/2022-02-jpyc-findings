@@ -1,0 +1,9 @@
+{
+  "contest": 95,
+  "handle": "leastwood",
+  "address": "0x28235dE0121700a462B5098Cff7D3615b050551F",
+  "risk": "2",
+  "title": "Minters Who Have Their Role Removed Can Make Use of Any Undistributed Tokens",
+  "issueId": 14,
+  "issueUrl": "https://github.com/code-423n4/2022-02-jpyc-findings/issues/14"
+}
