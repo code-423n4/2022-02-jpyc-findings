@@ -1,0 +1,9 @@
+{
+  "contest": 95,
+  "handle": "pedroais",
+  "address": "0x7b13eB3F49525DcF09c01DbBbd34Af8a4C8C83B5",
+  "risk": "2",
+  "title": "The whitelist won't work if the contract is deployed with decimals != 18",
+  "issueId": 56,
+  "issueUrl": "https://github.com/code-423n4/2022-02-jpyc-findings/issues/56"
+}
