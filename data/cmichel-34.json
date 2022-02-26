@@ -1,0 +1,9 @@
+{
+  "contest": 95,
+  "handle": "cmichel",
+  "address": "0x6823636c2462cfdcD8d33fE53fBCD0EdbE2752ad",
+  "risk": "2",
+  "title": "EIP3009 should not be used as a payment receipt",
+  "issueId": 34,
+  "issueUrl": "https://github.com/code-423n4/2022-02-jpyc-findings/issues/34"
+}
