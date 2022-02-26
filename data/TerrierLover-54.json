@@ -1,0 +1,9 @@
+{
+  "contest": 95,
+  "handle": "TerrierLover",
+  "address": "0xc9535b697E0B430798443c6CA5A8Be257aD368b0",
+  "risk": "2",
+  "title": "DOMAIN_SEPARATOR and VERSION should be updated in new version",
+  "issueId": 54,
+  "issueUrl": "https://github.com/code-423n4/2022-02-jpyc-findings/issues/54"
+}
