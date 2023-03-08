@@ -1,3 +1,11 @@
+---
+sponsor: "JPYC"
+slug: "2022-02-jpyc"
+date: "2022-04-11"
+title: "JPYC contest"
+findings: "https://github.com/code-423n4/2022-02-jpyc-findings/issues"
+contest: 95
+---
 
 # Overview
 
